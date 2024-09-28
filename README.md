@@ -21,7 +21,7 @@ I am a passionate Full Stack Developer specializing in **MERN stack development*
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=umeshbhatiya143&theme=highcontrast&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=44CC11)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=umeshbhatiya143&theme=highcontrast&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=44CC11)](https://git.io/streak-stats) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshbhatiya143&layout=compact&theme=dark)
 
@@ -40,7 +40,7 @@ I am a passionate Full Stack Developer specializing in **MERN stack development*
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/in/umeshbhatiya) ![LinkedIn Icon](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?logo=linkedin&logoColor=white)
 - [GitHub](https://github.com/umeshbhatiya143) ![GitHub Icon](https://img.shields.io/badge/Connect%20on-GitHub-181717?logo=github&logoColor=white)
-- [Gmail](mailto:umeshbhatiya143@gmail.com) ![Gmail Icon](https://img.shields.io/badge/Email-umeshbhatiya143@gmail.com-D14836?logo=gmail&logoColor=white)
+- [Gmail](mailto:umesh.bhatiya515@gmail.com) ![Gmail Icon](https://img.shields.io/badge/Email-umesh.bhatiya515@gmail.com-D14836?logo=gmail&logoColor=white)
 ## GitHub Achievements 🏆
 
 [![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Helped%20resolve%20issues%20by%20contributing%20useful%20pull%20requests-4D8CFF?logo=github&logoColor=white)](https://github.com/umeshbhatiya143?tab=achievements)
