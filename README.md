@@ -32,6 +32,9 @@ I am a passionate Full Stack Developer specializing in **MERN stack development*
 - [EcoMarket](https://github.com/umeshbhatiya143/EcoMarket): A social media app built with Next.js for eco-friendly product trading, integrated with WebSockets for real-time chat.
 - [CraftCrove](https://github.com/umeshbhatiya143/CraftCrove): A responsive e-commerce website built with Next.js, focused on a seamless user experience.
 
+## Portfolio 🌐
+Check out my portfolio to see more of my work: [Umesh's Portfolio](https://portfolio-coral-rho.vercel.app/)
+
 ## Coding Profiles
 - [LeetCode](https://leetcode.com/umeshbhatiya143) ![LeetCode Icon](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)
 - [Coding Ninjas](https://codingninjas.com/profile/umeshbhatiya515) ![Coding Ninjas Icon](https://img.shields.io/badge/Coding%20Ninjas-0082C6?logo=codingninjas&logoColor=white)
@@ -41,6 +44,7 @@ I am a passionate Full Stack Developer specializing in **MERN stack development*
 - [LinkedIn](https://linkedin.com/in/umeshbhatiya) ![LinkedIn Icon](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?logo=linkedin&logoColor=white)
 - [GitHub](https://github.com/umeshbhatiya143) ![GitHub Icon](https://img.shields.io/badge/Connect%20on-GitHub-181717?logo=github&logoColor=white)
 - [Gmail](mailto:umesh.bhatiya515@gmail.com) ![Gmail Icon](https://img.shields.io/badge/Email-umesh.bhatiya515@gmail.com-D14836?logo=gmail&logoColor=white)
+
 ## GitHub Achievements 🏆
 
 [![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Helped%20resolve%20issues%20by%20contributing%20useful%20pull%20requests-4D8CFF?logo=github&logoColor=white)](https://github.com/umeshbhatiya143?tab=achievements)
@@ -53,3 +57,5 @@ I am a passionate Full Stack Developer specializing in **MERN stack development*
 - Attained Level 7 proficiency on Coding Ninjas.
 - Contributed to 45+ GitHub repositories.
 - Solved 900+ coding questions.
+
+----------------------
